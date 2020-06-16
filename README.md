@@ -1,1 +1,1 @@
-# TeamOstriches_ShopeeCodeLeague2020
+# Team Ostriches (Shopee Code League 2020)
